@@ -46,7 +46,7 @@
     "vuex": "3.1.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "4.2.x",
+    "@vue/cli-plugin-babel": "4.5.11",
     "@vue/cli-plugin-e2e-cypress": "4.2.x",
     "@vue/cli-plugin-eslint": "4.2.x",
     "@vue/cli-plugin-unit-jest": "4.2.x",
@@ -56,6 +56,7 @@
     "@vue/test-utils": "1.0.0-beta.31",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.1.x",
+    "babel-loader": "^8.2.2",
     "cross-env": "7.0.x",
     "eslint": "6.8.x",
     "eslint-plugin-import": "2.20.x",

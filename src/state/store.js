@@ -1,8 +1,9 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
-import dispatchActionForAllModules from '@utils/dispatch-action-for-all-modules'
-
+import dispatchActionForAllModules from './utils/dispatch-action-for-all-modules'
 import modules from './modules'
+// eslint-disable-next-line import/no-relative-parent-imports
+import Vue from 'vue'
+// eslint-disable-next-line import/no-relative-parent-imports
+import Vuex from 'vuex'
 
 Vue.use(Vuex)
 

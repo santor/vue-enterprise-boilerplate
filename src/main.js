@@ -1,7 +1,8 @@
-import Vue from 'vue'
 import router from '@router'
 import store from '@state/store'
 import App from './app.vue'
+// eslint-disable-next-line import/no-relative-parent-imports
+import Vue from 'vue'
 
 // Globally register all `_base`-prefixed components
 import '@components/_globals'

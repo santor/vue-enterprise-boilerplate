@@ -1,4 +1,5 @@
 <script>
+/* eslint-disable import/no-relative-parent-imports */
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { library as fontAwesomeIconLibrary } from '@fortawesome/fontawesome-svg-core'
 import camelCase from 'lodash/camelCase'
